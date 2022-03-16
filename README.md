@@ -1,0 +1,2 @@
+# PictureEditor
+基于QT交互与opencv制作的图片效果编辑器
